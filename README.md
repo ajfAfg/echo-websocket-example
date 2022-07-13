@@ -7,3 +7,7 @@ An example of using WebSocket with Echo
 ```sh
 make run
 ```
+
+## Reference
+
+- [WebSocket Recipe](https://echo.labstack.com/cookbook/websocket/)
